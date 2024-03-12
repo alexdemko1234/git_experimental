@@ -133,3 +133,8 @@ touch ...
 1.) git init
 2.) git add .
 3.) git commit -m "..."
+
+*.) git status
+**.) git log
+***.) git checkout ...
+****.) git switch -
